@@ -5,8 +5,8 @@
 
  class databaseConnection{
  	private $host = 'localhost'; //Host Name
-    private $db_name = 'brainstation'; //Database Name
-    private $db_username = 'root'; //Database Username
+    private $db_name = 'dbName'; //Database Name
+    private $db_username = ''; //Database Username
     private $db_password = ''; //Database Password
     public $conn=false; //Database Connection
 
