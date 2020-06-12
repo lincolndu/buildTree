@@ -11,7 +11,7 @@ Now Check database.php as your credential
 Check http://yourprojectpath/buildtree.php
 
 
-# Optional JSOn
+# Optional JSON
 data.json file is sample data from database;
 You can also use json if needed. 
 
